@@ -1,0 +1,10 @@
+.body_background{
+    background-image:url("download.jpg");
+    background-position:center;
+   background-size: cover;
+}
+canvas{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
